@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align=center>
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewang-seo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaewang-seo&count_bg=%23000000&title_bg=%23A8A8A8&icon=python.svg&icon_color=%234C79D9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 <!--
 **jaewang-seo/jaewang-seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
