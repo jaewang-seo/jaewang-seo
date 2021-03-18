@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jaewang.seo@mokwon.ac.kr)
 
 </div>
-Waiting for changes.. :)
-  
+
+Waiting for changes.. sorry hehe:)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
