@@ -15,15 +15,15 @@ Good day!
 <br/>
 
 ### 💫 Experience
-- **.** - blank *(Nov 2021 ~)*
-- **.** - blank *(Jun 2020 - Dec 2020)*
+- PCS Design Team(Staff Engineer). ABOV semicontuctor Co., Ltd. *(Dec 2021 ~)*
+- Intern. AI Solution Company *(Jun 2020 - Dec 2020)*
 
 <br/>  
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [ABOV semicontuctor](https://www.abov.co.kr/en/main.php) as a Digital IP Designer.
-- 🌱 I'm currently learning Computer Architecture.
+- 🔭 I’m currently working on [ABOV semicontuctor](https://www.abov.co.kr/en/main.php)
+- 🌱 I'm currently learning Digital Systems Design Using Verilog.
   
 
 <br/>  
