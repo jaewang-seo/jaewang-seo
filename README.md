@@ -16,7 +16,7 @@ Good day!
 
 ### 💫 Experience
 - PCS Design Team(Staff Engineer). ABOV semicontuctor Co., Ltd. *(Dec 2021 ~)*
-- Intern. AI Solution Company *(Jun 2020 - Dec 2020)*
+- Intern. [AI Solution Company](http://www.airiss.co.kr/) *(Jun 2020 - Dec 2020)*
 
 <br/>  
 
