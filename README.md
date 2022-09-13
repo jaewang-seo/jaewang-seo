@@ -15,14 +15,14 @@ Good day!
 <br/>
 
 ### 💫 Experience
-- PCS Design Team(Staff Engineer). ABOV semicontuctor Co., Ltd. *(Dec 2021 ~)*
+- PCS Design Team(Staff Engineer). [ABOV semicontuctor Co., Ltd](https://www.abov.co.kr/kr/main.php) *(Dec 2021 ~)*
 - Intern. [AI Solution Company](http://www.airiss.co.kr/) *(Jun 2020 - Dec 2020)*
 
 <br/>  
 
 ### ✨ Summary
 
-- 🔭 I’m currently working on [ABOV semicontuctor](https://www.abov.co.kr/en/main.php)
+- 🔭 I’m currently working on ABOV semicontuctor.
 - 🌱 I'm currently learning Digital Systems Design(ASIC).
   
 
