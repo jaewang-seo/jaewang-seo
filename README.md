@@ -23,7 +23,7 @@ Good day!
 ### ✨ Summary
 
 - 🔭 I’m currently working on [ABOV semicontuctor](https://www.abov.co.kr/en/main.php)
-- 🌱 I'm currently learning Digital Systems Design Using Verilog.
+- 🌱 I'm currently learning Digital Systems Design(ASIC).
   
 
 <br/>  
